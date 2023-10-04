@@ -9,5 +9,10 @@
 - [UCI](https://archive.ics.uci.edu/ml/index.php)
 - [Kaggle](https://www.kaggle.com/)
 
-## sentiment analysis
+## What is data
+
+A dataset is a collection of data objects and their attributes
+
+- an **attribute** is a property or characteristic of an object
+
 
