@@ -29,7 +29,7 @@ $$
 
 > **Codomain**:The whole set B. Range $\subseteq$ Codomain
 
-### functions
+### functions def
 
 > A function is a relation that map each element x of a set A **with only one** element of est B
 
@@ -78,3 +78,31 @@ Dividing both sides by $2$, we get:
 $$ x_1 = x_2 $$
 
 Therefore, we have shown that if $f(x_1) = f(x_2)$, then $x_1 = x_2$, which means that $f$ is injective.
+
+### invetrible function
+
+To be **invertable** it has to be **injective** and **surjective**.
+
+Consider $f:x \rightarrow 2x+3$ find $f^{-1}(x)$. Verify that your result is correct
+
+#### example of invertible function:
+$$
+\begin{align*}
+    y &= 2x+3 \\
+    x &= \frac{y-3}{2} \\
+    2y&= x-3\\
+    \rightarrow f^{-1}(x) &= \frac{x-3}{2}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+    &(f \circ f^{-1})(x)    &   &and    &   &(f^{-1}\circ f)(x) \\
+    &=f (f^{-1}(x))         &   &       &   &=f^{-1} (f(x)) \\
+    &=f (\frac{x-3}{2})     &   &       &   &=f^{-1} (2x+3) \\
+    &=2(\frac{x-3}{2})+3    &   &       &   &=\frac{1}{2}(2x+3) -\frac{3}{2} \\
+    &=x-3+3    &   &       &   &=x+\frac{3}{2}-\frac{3}{2} \\
+    &=x    &   &       &   &=x \\
+
+\end{align*}
+$$
