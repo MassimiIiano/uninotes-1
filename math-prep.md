@@ -106,3 +106,76 @@ $$
 
 \end{align*}
 $$
+
+
+### check if function is sujective
+
+to see if a functin is sujective we can check if it the domain is equal to the codomain
+
+
+$$
+f(x)=\frac{1}{x} \\
+f: \space D=\mathbb{R} \\
+Image = \{ y \in \mathbb{R} | y \neq 0 \} = Range \\
+$$
+
+$$
+Codomain \equiv \mathbb{R} \rightarrow 0 \in \mathbb{R} \\
+$$
+
+#### example
+
+$$
+\begin{align*}
+    f(x) &= \frac{x-4}{x+2}     &   D&=\mathbb{R}-\{-2\} \\
+\end{align*}
+$$
+
+this function is surjective because its range (image) is equal to its codomain
+
+### frequently used functions
+
+#### exponential functions
+
+**Exponential functions** contain a variable wirtten as an exponent, such as
+
+$$
+y=ab^{x}
+$$
+
+where $a$ and $b$ are two real numbers. $b$ is called **base**, and $x$ **exponent**.
+
+##### example
+
+Compoind interest formula
+
+$$
+A = p(1+r)^{t}
+$$
+
+is an exponential function which teh amount in the acount $A$ depends on the principal $p$, the annual interest rate $r$ and the time $t$.
+
+
+##### exercise 2
+
+$$
+\frac{2^{3x}2^{x+2}}{2^{2x+5}}=
+\frac{2^{x}2^{x+2}}{2^{5} }=
+\frac{2^{x^2}}{2^{3} }=
+\frac{2^{x^2}}{2^{3} }=2^{x^2-3}
+$$
+
+
+#### logarithmic functions
+
+**Logarithmic functions** are the inverse of exponential functions. The logarithmic function with base $b$ is defined as
+
+prove of logaritmic rule:
+
+$$
+\ln(xy)=\ln(x)+\ln(y) \\
+n = \ln(x) \rightarrow e^n = x \\
+m = \ln(y) \rightarrow e^m = y \\
+\ln(e^{n}  e^{m}) = \ln(e^{n+m}) = n+m = \ln(x) + \ln(y) \\
+=\ln(xy)
+$$
