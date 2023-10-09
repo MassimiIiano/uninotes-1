@@ -53,9 +53,9 @@ $f: A \rightarrow B$ is bijective if it is incective and surjective.
 
 
 $$
-\begin{align*}
+\begin{align}
     f(x)&= \frac{1}{x}  &\mathbb{D}=
-\end{align*}
+\end{align}
 
 $$
 
@@ -87,16 +87,16 @@ Consider $f:x \rightarrow 2x+3$ find $f^{-1}(x)$. Verify that your result is cor
 
 #### example of invertible function:
 $$
-\begin{align*}
+\begin{align}
     y &= 2x+3 \\
     x &= \frac{y-3}{2} \\
     2y&= x-3\\
     \rightarrow f^{-1}(x) &= \frac{x-3}{2}
-\end{align*}
+\end{align}
 $$
 
 $$
-\begin{align*}
+\begin{align}
     &(f \circ f^{-1})(x)    &   &and    &   &(f^{-1}\circ f)(x) \\
     &=f (f^{-1}(x))         &   &       &   &=f^{-1} (f(x)) \\
     &=f (\frac{x-3}{2})     &   &       &   &=f^{-1} (2x+3) \\
@@ -104,7 +104,7 @@ $$
     &=x-3+3    &   &       &   &=x+\frac{3}{2}-\frac{3}{2} \\
     &=x    &   &       &   &=x \\
 
-\end{align*}
+\end{align}
 $$
 
 
