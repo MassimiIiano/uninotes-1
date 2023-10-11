@@ -1,12 +1,13 @@
 {
 	"nodes":[
-		{"id":"8b03cba96cda7caa","type":"text","text":"Math Course","x":-700,"y":-680,"width":250,"height":60},
 		{"id":"0f066c90a09ebad1","type":"text","text":"[[Roots of polynomials]]","x":60,"y":-800,"width":250,"height":60},
 		{"id":"996793846f07a024","type":"text","text":"[[Complex Numbers]]","x":-340,"y":-680,"width":250,"height":60},
-		{"id":"a6d246281f17cd52","type":"text","text":"","x":-65,"y":-600,"width":250,"height":60}
+		{"id":"a6d246281f17cd52","type":"text","text":"","x":60,"y":-560,"width":250,"height":60},
+		{"id":"8b03cba96cda7caa","type":"text","text":"Math Course","x":-680,"y":-680,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"5b0bacf9cee6f800","fromNode":"8b03cba96cda7caa","fromSide":"right","toNode":"996793846f07a024","toSide":"left"},
-		{"id":"0c52f8e8bbb17817","fromNode":"996793846f07a024","fromSide":"right","toNode":"0f066c90a09ebad1","toSide":"left"}
+		{"id":"0c52f8e8bbb17817","fromNode":"996793846f07a024","fromSide":"right","toNode":"0f066c90a09ebad1","toSide":"left"},
+		{"id":"40c33705b2fac1bb","fromNode":"996793846f07a024","fromSide":"right","toNode":"a6d246281f17cd52","toSide":"left"}
 	]
 }
