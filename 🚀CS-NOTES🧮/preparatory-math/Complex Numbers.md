@@ -85,7 +85,8 @@ $$
 #### conversion from algebraic to polar
 $$
 \begin{align}
-
+	r &= \sqrt{x^2 + y^2} \\
+	\theta &= \arctan\left(\frac{y}{x}\right)
 \end{align}
 $$
 ### Operators in polar form
