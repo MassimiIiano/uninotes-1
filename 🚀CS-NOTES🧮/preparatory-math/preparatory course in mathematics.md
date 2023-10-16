@@ -180,3 +180,5 @@ m &= \ln(y) \rightarrow e^m = y \\
 \end{align}
 $$
 ![[Complex Numbers]]
+
+![[trigonometric functions]]
