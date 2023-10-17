@@ -19,4 +19,4 @@ It allows you to give a temporary name to the (arbitrary) number you might choos
 
 "No matter what number $x$ might be chosen, if $x > 2$ , then $x^2 > 4$.”
 
-variables are used to write mathematical [[statements]]
+variables are used to write mathematical [[Statements]]
