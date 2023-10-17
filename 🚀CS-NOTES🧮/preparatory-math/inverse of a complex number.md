@@ -2,7 +2,6 @@
 The inverse number if multiplied by the inverted number results in $1$
 ## inverse of a complex number in algebraic notation
 The inverse number if multiplied by the inverted number results in $1$
-
 $$\frac{z_1}{z_2}=z_1z_2^{-1}=(x+iy)(\frac{x}{x^2+y^2}-\frac{iy}{x^2+y^2})$$
 $$
 

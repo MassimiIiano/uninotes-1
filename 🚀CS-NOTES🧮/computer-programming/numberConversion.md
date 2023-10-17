@@ -69,10 +69,10 @@ F1FA = 1111 0001 1111 1010
 ## Number Representation
 $$
 \begin{align}
-11_b&= 10_{10} &\rightarrow9\\
-11_b&= 101_2=5_{10} &\rightarrow4\\
+11_b&= 10_{10} &\Rightarrow9\\
+11_b&= 101_2=5_{10} &\Rightarrow4\\
 100_b&= 8_{10} &\\
-1x^2 &= 8 \rightarrow x = \sqrt{8} &\rightarrow\sqrt{8}\\
-16_b&= 10001_2 = 17 &\rightarrow11
+1x^2 &= 8 \rightarrow x = \sqrt{8} &\Rightarrow\sqrt{8}\\
+16_b&= 10001_2 = 17 &\Rightarrow11
 \end{align}
 $$

@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b2c0b5bcd0a27358",
+        "id": "6e00fd3781564d22",
         "type": "tabs",
         "children": [
           {
-            "id": "7df8fe1341a9bd04",
+            "id": "f2ac737e0302fe3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-systems-architecture/Introduction of computer system architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d68c7a79a4d59344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-systems-architecture/Introduction of computer system architecture.md",
+                "file": "computer-programming/numberConversion.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-systems-architecture/Introduction of computer system architecture.md",
+                "file": "computer-programming/numberConversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-systems-architecture/Introduction of computer system architecture.md",
+                "file": "computer-programming/numberConversion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-systems-architecture/Introduction of computer system architecture.md"
+                "file": "computer-programming/numberConversion.md"
               }
             }
           }
@@ -159,22 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7df8fe1341a9bd04",
+  "active": "f2ac737e0302fe3b",
   "lastOpenFiles": [
+    "computer-programming/Commuter programming Assignment 1.md",
+    "computer-programming/Hello Again.md",
+    "computer-programming/Pre-Assessment CS.md",
+    "preparatory-math/inverse of a complex number.md",
+    "preparatory-math/Complex Numbers.md",
+    "preparatory-math/preparatory course in mathematics.md",
+    "computer-systems-architecture/Introduction of computer system architecture.md",
+    "computer-systems-architecture/Introduction of computer system architecture.pdf",
     "preparatory-math/Cheet-sheet.pdf",
     "preparatory-math/Cheet-sheet.md",
     "computer-programming/Cheet-sheet.pdf",
     "computer-programming/Introduction to computer programming.md",
-    "computer-programming/Hello Again.md",
-    "computer-programming/Commuter programming Assignment 1.md",
     "english-for-cs",
-    "computer-systems-architecture/Introduction of computer system architecture.md",
     "computer-systems-architecture",
     "discrete-mathematics/Statements.md",
     "discrete-mathematics/introduction to discrete mathematics.md",
     "discrete-mathematics/language of set theory.md",
     "preparatory-math/even and odd.md",
-    "preparatory-math/preparatory course in mathematics.md",
     "Untitled.canvas",
     "discrete-mathematics/Variables in discrete mathematics.md",
     "discrete-mathematics/Lecture01 - Language of Mathematics 23.pdf",
@@ -183,10 +175,7 @@
     "preparatory-math/trigonometric functions.md",
     "preparatory-math/Radiant vs Degrees.md",
     "computer-programming/Introduction to programming.canvas",
-    "computer-programming/Pre-Assessment CS.md",
     "computer-programming/numberConversion.md",
-    "preparatory-math/Complex Numbers.md",
-    "preparatory-math/inverse of a complex number.md",
     "computer-programming/pre-assestment-CS.pdf",
     "[even.md",
     "[[even.md",
@@ -198,7 +187,6 @@
     "commutativity and associativity.md",
     "preparatory-math/commutativity.md",
     "preparatory-math/Roots of polynomials.md",
-    "computer-programming",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas"
