@@ -1,0 +1,19 @@
+- why you should study computer science?
+- can ai checking tools ever keep up?
+- digital privacy: myth or human right? 
+- can you accurately simulate a human conscience?
+- will computers ever write good fiction?
+- impact of tech on life?
+- The European green bubble problem
+- will ai replace professors? 
+- how to stop monopoly's in tech?
+-  ais as dungeon masters?
+- why computers???
+- are humans progressing or digressing? (with tech)
+- is tech a good tool to preserve human history?
+- once tech replaced labor, will humas react negatively or positively?
+- is matrix multiplication intelligence?
+- what is intelligence and can it be applied to a computer?
+- has tech made us happier? (just happier)
+- relationship between waste and tech?
+- witch is the best programming language?

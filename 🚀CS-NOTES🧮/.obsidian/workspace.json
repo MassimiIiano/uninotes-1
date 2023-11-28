@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6e00fd3781564d22",
+        "id": "28e6a13e8487dc20",
         "type": "tabs",
         "children": [
           {
-            "id": "f2ac737e0302fe3b",
+            "id": "361ca002d7e76248",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-programming/numberConversion.md",
+                "file": "computer-systems-architecture/Sequential Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76da096b2805df18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rolplay/dnd/Cannella.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7380c5e9c7f9f754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Portfolio - 2023 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "associ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.5069465637207
   },
   "right": {
     "id": "d7c2c9de787ae8d7",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-programming/numberConversion.md",
+                "file": "rolplay/dnd/Cannella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +127,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-programming/numberConversion.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "rolplay/dnd/Cannella.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-programming/numberConversion.md"
+                "file": "rolplay/dnd/Cannella.md"
               }
             }
           }
@@ -147,46 +172,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2ac737e0302fe3b",
+  "active": "76da096b2805df18",
   "lastOpenFiles": [
-    "computer-programming/Commuter programming Assignment 1.md",
-    "computer-programming/Hello Again.md",
-    "computer-programming/Pre-Assessment CS.md",
-    "preparatory-math/inverse of a complex number.md",
-    "preparatory-math/Complex Numbers.md",
-    "preparatory-math/preparatory course in mathematics.md",
+    "Portfolio - 2023 2024.md",
+    "rolplay/dnd/Cannella.md",
+    "discrete-mathematics/Recursive Sequences.md",
+    "images/Pasted image 20231122103307.png",
+    "Sequences and Inductions.md",
+    "computer-systems-architecture/Sequential Circuits.md",
+    "rolplay/dnd",
+    "rolplay",
+    "images/Pasted image 20231122082550.png",
+    "computer-systems-architecture/Logical gates.md",
+    "images/Pasted image 20231122080955.png",
+    "images",
+    "images/Pasted image 20231122083423.png",
     "computer-systems-architecture/Introduction of computer system architecture.md",
     "computer-systems-architecture/Introduction of computer system architecture.pdf",
-    "preparatory-math/Cheet-sheet.pdf",
-    "preparatory-math/Cheet-sheet.md",
-    "computer-programming/Cheet-sheet.pdf",
-    "computer-programming/Introduction to computer programming.md",
-    "english-for-cs",
-    "computer-systems-architecture",
-    "discrete-mathematics/Statements.md",
+    "computer-systems-architecture/Binary arithmetic.md",
+    "Recursion.md",
+    "images/Pasted image 20231122081556.png",
+    "images/Pasted image 20231122081251.png",
+    "computer-systems-architecture/half-adder.dig",
+    "computer-systems-architecture/xor.dig",
+    "english-for-cs/Questions.md",
+    "linear-algebra/Linear Systems.md",
+    "linear-algebra/Introduction to algebra.md",
+    "data-science-with-python/Data science with python.md",
+    "discrete-mathematics/Methods of proof.md",
+    "discrete-mathematics/Language of Logic.md",
     "discrete-mathematics/introduction to discrete mathematics.md",
-    "discrete-mathematics/language of set theory.md",
-    "preparatory-math/even and odd.md",
-    "Untitled.canvas",
-    "discrete-mathematics/Variables in discrete mathematics.md",
-    "discrete-mathematics/Lecture01 - Language of Mathematics 23.pdf",
-    "discrete-mathematics/Unconfirmed 884675.crdownload",
-    "discrete-mathematics",
-    "preparatory-math/trigonometric functions.md",
-    "preparatory-math/Radiant vs Degrees.md",
-    "computer-programming/Introduction to programming.canvas",
-    "computer-programming/numberConversion.md",
-    "computer-programming/pre-assestment-CS.pdf",
-    "[even.md",
-    "[[even.md",
-    "preparatory-math/preparatory course in math.canvas",
-    "preparatory-math/preparatory course in mathematics.pdf",
+    "linear-algebra/Matrices.md",
+    "rolplay/star-trek/Session 1.md",
+    "preparatory-math/Complex Numbers.md",
     "preparatory-math/associativity.md",
-    "preparatory-math/multiplication of complex numbers.md",
-    "computer-programming/Software.md",
-    "commutativity and associativity.md",
-    "preparatory-math/commutativity.md",
-    "preparatory-math/Roots of polynomials.md",
+    "linear-algebra/methods of proof.md",
+    "linear-algebra/Vectors.md",
+    "the-nature-of-ai/Introduction to AI.md",
+    "english-for-cs/First academic paper.md",
+    "rolplay/star-trek",
+    "english-for-cs/English for CS.md",
+    "preparatory-math/Radiant vs Degrees.md",
+    "discrete-mathematics/Lecture01 - Language of Mathematics 23.pdf",
+    "preparatory-math/preparatory course in math.canvas",
+    "preparatory-math/Cheet-sheet.pdf",
+    "linear-algebra/vec-slides.pdf",
+    "computer-programming/Introduction to programming.canvas",
+    "linear-algebra/Screenshot 2023-10-19 091503.png",
+    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas"

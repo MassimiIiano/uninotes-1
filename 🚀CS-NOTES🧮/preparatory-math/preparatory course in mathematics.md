@@ -182,3 +182,5 @@ $$
 ![[Complex Numbers]]
 
 ![[trigonometric functions]]
+
+[[Cheet sheet for preparatory math]] for the exam
