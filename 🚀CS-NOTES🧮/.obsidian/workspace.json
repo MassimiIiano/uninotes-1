@@ -11,15 +11,44 @@
             "id": "f2ac737e0302fe3b",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "preparatory-math/Cheet-sheet.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "475d51f06427dd86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9730cb001c9181b0",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-programming/numberConversion.md",
+                "file": "preparatory-math/multiplication of complex numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0fe56bdc03081cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cheat sheat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#toread",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-programming/numberConversion.md",
+                "file": "cheat sheat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-programming/numberConversion.md",
+                "file": "cheat sheat.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-programming/numberConversion.md"
+                "file": "cheat sheat.md"
               }
             }
           }
@@ -147,8 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2ac737e0302fe3b",
+  "active": "c0fe56bdc03081cc",
   "lastOpenFiles": [
+    "preparatory-math/Cheet-sheet.pdf",
+    "cheat sheat.md",
+    "preparatory-math/trigonometric functions.md",
+    "preparatory-math/multiplication of complex numbers.md",
+    "computer-programming/numberConversion.md",
     "computer-programming/Commuter programming Assignment 1.md",
     "computer-programming/Hello Again.md",
     "computer-programming/Pre-Assessment CS.md",
@@ -157,7 +192,6 @@
     "preparatory-math/preparatory course in mathematics.md",
     "computer-systems-architecture/Introduction of computer system architecture.md",
     "computer-systems-architecture/Introduction of computer system architecture.pdf",
-    "preparatory-math/Cheet-sheet.pdf",
     "preparatory-math/Cheet-sheet.md",
     "computer-programming/Cheet-sheet.pdf",
     "computer-programming/Introduction to computer programming.md",
@@ -172,21 +206,17 @@
     "discrete-mathematics/Lecture01 - Language of Mathematics 23.pdf",
     "discrete-mathematics/Unconfirmed 884675.crdownload",
     "discrete-mathematics",
-    "preparatory-math/trigonometric functions.md",
     "preparatory-math/Radiant vs Degrees.md",
     "computer-programming/Introduction to programming.canvas",
-    "computer-programming/numberConversion.md",
     "computer-programming/pre-assestment-CS.pdf",
     "[even.md",
     "[[even.md",
     "preparatory-math/preparatory course in math.canvas",
     "preparatory-math/preparatory course in mathematics.pdf",
     "preparatory-math/associativity.md",
-    "preparatory-math/multiplication of complex numbers.md",
     "computer-programming/Software.md",
     "commutativity and associativity.md",
     "preparatory-math/commutativity.md",
-    "preparatory-math/Roots of polynomials.md",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas"
