@@ -41,6 +41,27 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:data-science-with-python  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:phylosofy  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:linear-algebra  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0534979423868298,
+  "scale": 0.3536433083622338,
   "close": false
 }

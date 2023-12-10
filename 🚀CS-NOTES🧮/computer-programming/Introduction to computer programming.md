@@ -83,7 +83,4 @@ $$
 x_{10} = a_n\cdot2^n+...+a_1\cdot2^1+a_0\cdot2^0
 $$
 
-A = 0 
-G = 2
-C = 1
-T = 3
+[[Computer programming Assignment 0]] is an exercise on the topic

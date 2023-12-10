@@ -13,6 +13,7 @@ timeline
         - 1946: The ENIAC (Electronic Numerical Integrator and Computer), the first general-purpose electronic digital computer, is completed.
         - 1951: The UNIVAC I (Universal Automatic Computer) becomes the first commercially produced computer.
 ```
+
 ```mermaid
 timeline
     section Personal Computers
@@ -26,6 +27,7 @@ timeline
         - 1989: Tim Berners-Lee invents the World Wide Web, changing the way we access and share information.
         - 1991: Linux is released by Linus Torvalds, a popular open-source operating system.
 ```
+
 ```mermaid
 timeline
 
@@ -41,3 +43,8 @@ timeline
         - 1956: Dartmouth Workshop marks the birth of artificial intelligence research.
         - 2010s: Rapid advancements in AI and Machine Learning transform various industries.
 ```
+
+## Course contents
+- [[Binary arithmetic]]
+- [[Logical gates]]
+- 

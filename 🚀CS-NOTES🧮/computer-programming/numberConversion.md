@@ -16,7 +16,7 @@ $$
 $$
 \begin{align}
 16 = 10000 \qquad \textrm{because of } 2^5\\ \\
-17 = 10001 \qquad \textrm{because of } 17 + 1\\ \\
+17 = 10001 \qquad \textrm{because of } 16 + 1\\ \\
 15 / 2 = 7 \qquad r=1 \\
 7 / 2 = 3 \qquad r=1 \\
 3 / 2 = 1 \qquad r=1 \\
@@ -76,3 +76,5 @@ $$
 16_b&= 10001_2 = 17 &\Rightarrow11
 \end{align}
 $$
+## How many bits do you need to store the number 129 in memory? 
+You need at least 8 bits, because 7 bit can only represent 128 values and are therefore not sufficient to store numbers higher that 127.
