@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "28e6a13e8487dc20",
+        "id": "a7f6aa1b55b7bb10",
         "type": "tabs",
         "children": [
           {
-            "id": "361ca002d7e76248",
+            "id": "08964c52d7bd16a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-systems-architecture/Sequential Circuits.md",
+                "file": "discrete-mathematics/introduction to discrete mathematics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "76da096b2805df18",
+            "id": "f4d3ffd3e9ec31a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rolplay/dnd/Cannella.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7380c5e9c7f9f754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Portfolio - 2023 2024.md",
+                "file": "english essay.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "associ",
+                "query": "powers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rolplay/dnd/Cannella.md",
+                "file": "discrete-mathematics/introduction to discrete mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rolplay/dnd/Cannella.md",
+                "file": "discrete-mathematics/introduction to discrete mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rolplay/dnd/Cannella.md"
+                "file": "discrete-mathematics/introduction to discrete mathematics.md"
               }
             }
           }
@@ -172,51 +159,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76da096b2805df18",
+  "active": "08964c52d7bd16a4",
   "lastOpenFiles": [
-    "Portfolio - 2023 2024.md",
-    "rolplay/dnd/Cannella.md",
+    "discrete-mathematics/Lecture16 - Trees.pdf",
+    "discrete-mathematics/Lecture15 - Graph Theory.pdf",
+    "english essay.md",
+    "Pasted image 20240110092008.png",
+    "english-for-cs/Mola_Massimiliano_23026.md",
+    "english-for-cs/Mola_Massimiliano_23026.pdf",
+    "sources english.md",
+    "english-for-cs/Mola_Massimiliano_xxxx.pdf",
+    "discrete-mathematics/Lecture14 - Partial Orders 23.pdf",
+    "english-for-cs/Portfolio - 2023 2024.md",
+    "english-for-cs/Report.md",
+    "linear-algebra/Linear Transformations - notes10.pdf",
+    "linear-algebra/Linear transformations.md",
+    "computer-systems-architecture/OS Support.md",
+    "linear-algebra/Vector transformations.md",
+    "computer-systems-architecture/Expert presentation.md",
+    "linear-algebra/Formal understanding of a function.md",
+    "discrete-mathematics/Subsets.md",
+    "discrete-mathematics/Variables in discrete mathematics.md",
+    "discrete-mathematics/subset vs in - exercise.md",
+    "discrete-mathematics/Statements.md",
     "discrete-mathematics/Recursive Sequences.md",
+    "discrete-mathematics/Sets and Functions.md",
+    "discrete-mathematics/Methods of proof.md",
+    "discrete-mathematics/Language of set.md",
+    "discrete-mathematics/Notation.md",
+    "discrete-mathematics/Lecture01 - Language of Mathematics 23.pdf",
+    "discrete-mathematics/Language of Logic.md",
+    "linear-algebra/Matrices.md",
+    "computer-systems-architecture/LC-3 architecture.md",
+    "computer-systems-architecture/Input Output.md",
+    "computer-systems-architecture/Cache lines.md",
+    "discrete-mathematics/how to prove implications.md",
     "images/Pasted image 20231122103307.png",
-    "Sequences and Inductions.md",
-    "computer-systems-architecture/Sequential Circuits.md",
     "rolplay/dnd",
     "rolplay",
     "images/Pasted image 20231122082550.png",
-    "computer-systems-architecture/Logical gates.md",
     "images/Pasted image 20231122080955.png",
     "images",
     "images/Pasted image 20231122083423.png",
-    "computer-systems-architecture/Introduction of computer system architecture.md",
     "computer-systems-architecture/Introduction of computer system architecture.pdf",
-    "computer-systems-architecture/Binary arithmetic.md",
-    "Recursion.md",
     "images/Pasted image 20231122081556.png",
     "images/Pasted image 20231122081251.png",
-    "computer-systems-architecture/half-adder.dig",
-    "computer-systems-architecture/xor.dig",
-    "english-for-cs/Questions.md",
-    "linear-algebra/Linear Systems.md",
-    "linear-algebra/Introduction to algebra.md",
-    "data-science-with-python/Data science with python.md",
-    "discrete-mathematics/Methods of proof.md",
-    "discrete-mathematics/Language of Logic.md",
-    "discrete-mathematics/introduction to discrete mathematics.md",
-    "linear-algebra/Matrices.md",
-    "rolplay/star-trek/Session 1.md",
-    "preparatory-math/Complex Numbers.md",
-    "preparatory-math/associativity.md",
-    "linear-algebra/methods of proof.md",
-    "linear-algebra/Vectors.md",
-    "the-nature-of-ai/Introduction to AI.md",
-    "english-for-cs/First academic paper.md",
-    "rolplay/star-trek",
-    "english-for-cs/English for CS.md",
-    "preparatory-math/Radiant vs Degrees.md",
-    "discrete-mathematics/Lecture01 - Language of Mathematics 23.pdf",
     "preparatory-math/preparatory course in math.canvas",
-    "preparatory-math/Cheet-sheet.pdf",
-    "linear-algebra/vec-slides.pdf",
     "computer-programming/Introduction to programming.canvas",
     "linear-algebra/Screenshot 2023-10-19 091503.png",
     "Untitled.canvas",

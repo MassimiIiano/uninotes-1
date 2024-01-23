@@ -1,0 +1,8 @@
+## Backstory
+Cannella was born in a little town named {}. She was raised by a loving and supportive family, that owned a little Tavern called The Last Drop. She, in contrast to the rest of her family, was a Tiefling. Her parents expected that mulch. Her grandmother once made a pact with a devil and since then all firstborn of their family where Tieflings, as well of being capable of magic. She had a happy childhood, generally speaking. Growing up listening to the many tales of passing adventures. Some of them even taught her a few cantrips and simple spells. But her hart always was with her family and the establishment they run.
+
+Even from early age she wanted to become a chef. Quite fitting since she was to inherit the tavern. For her last year of training she managed to get an apprenticeship under one of the best chefs of the realm, in the finest establishment of Neverwinter. That apprenticeship was full of mixed feelings. One one hand she adored learning all the secrets of the trade from someone so talented. Bot on the other racism in the city was way worst. People always expected the worst of her and treated her accordingly. 
+At the end she longed for home, , the old friends, the familiar customers and most of all her family.
+
+As she finally approached home horror filled her hart and mind. Even from distance one could see the terrible fate of {}, now nothing more than baron ruins, void of any life. She quickly learned the grim fate that had befallen her family. 
+Now lost and with broken heart she joined a group of adventurers in hope of a new life and maybe, just maybe, a chance of revenge.

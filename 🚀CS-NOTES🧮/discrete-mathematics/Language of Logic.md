@@ -19,3 +19,12 @@ h= "it is hot" and s="it is sunny"
 it is not hot, but it is sunny $\neg h\land s$   
 ## Law of Non-Contradiction
 for any proposition p is the case that $\neg(p\land\neg p)$
+## Implication
+Let p and q be propositions. the proposition "if p then q" denoted by $p \rightarrow q$ 
+
+| P | Q | P → Q |
+|---|---|-------|
+| T | T |   T   |
+| T | F |   F   |
+| F | T |   T   |
+| F | F |   T   |

@@ -7,3 +7,4 @@
 - Numbers and number theory: types of numbers, closure properties of integers, prime numbers and factorization, fundamental theorem of arithmetic, induction principle and recursion, structural induction
 - Sets, functions and counting: properties of sets, powersets, Russel paradox and Halting problem, functions: injections, surjections, bijections, cardinality of sets: countably infinite sets and uncountable sets
 - Relations and graphs: properties of relations (transitivity, reflexivity, symmetry, etc.), equivalence and partial order relations, trails, paths and circuits, graph isomorphisms
+

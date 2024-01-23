@@ -117,9 +117,6 @@ A = \begin{bmatrix}
 3 & 4
 \end{bmatrix}
 $$
-
-Now, let's say you want to multiply this matrix by the scalar 2. This means you'll scale each element of the matrix by 2:
-
 $$
 2A = \begin{bmatrix}
 2 \cdot 1 & 2 \cdot 2 \\
@@ -129,9 +126,6 @@ $$
 6 & 8
 \end{bmatrix}
 $$
-
-So, when you multiply matrix A by the scalar 2, you get a new matrix:
-
 $$
 2A = \begin{bmatrix}
 2 & 4 \\
