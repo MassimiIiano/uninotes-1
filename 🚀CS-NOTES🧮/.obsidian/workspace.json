@@ -11,25 +11,21 @@
             "id": "08964c52d7bd16a4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "preparatory-math/Cheet-sheet.pdf"
+                "file": "discrete-mathematics/introduction to discrete mathematics.md",
+                "mode": "source",
+                "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "475d51f06427dd86",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "9730cb001c9181b0",
+            "id": "b4d151f72a3c4a99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discrete-mathematics/introduction to discrete mathematics.md",
+                "file": "Exam structure - descreate math.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discrete-mathematics/introduction to discrete mathematics.md",
+                "file": "Exam structure - descreate math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discrete-mathematics/introduction to discrete mathematics.md",
+                "file": "Exam structure - descreate math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "discrete-mathematics/introduction to discrete mathematics.md"
+                "file": "Exam structure - descreate math.md"
               }
             }
           }
@@ -176,8 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08964c52d7bd16a4",
+  "active": "b4d151f72a3c4a99",
   "lastOpenFiles": [
+    "discrete-mathematics/introduction to discrete mathematics.md",
+    "Exam structure - descreate math.md",
+    "cheat sheat.md",
     "discrete-mathematics/Lecture16 - Trees.pdf",
     "discrete-mathematics/Lecture15 - Graph Theory.pdf",
     "english essay.md",
@@ -209,8 +208,6 @@
     "linear-algebra/Matrices.md",
     "computer-systems-architecture/LC-3 architecture.md",
     "computer-systems-architecture/Input Output.md",
-    "computer-systems-architecture/Cache lines.md",
-    "discrete-mathematics/how to prove implications.md",
     "images/Pasted image 20231122103307.png",
     "rolplay/dnd",
     "rolplay",
@@ -218,7 +215,6 @@
     "images/Pasted image 20231122080955.png",
     "images",
     "images/Pasted image 20231122083423.png",
-    "computer-systems-architecture/Introduction of computer system architecture.pdf",
     "images/Pasted image 20231122081556.png",
     "images/Pasted image 20231122081251.png",
     "preparatory-math/preparatory course in math.canvas",
