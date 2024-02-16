@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "40e74e65404bdec7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c450a5d918d04625",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1faaeb06ab32207",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "37f9ec0619b38599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linear-algebra/cheet-sheet-algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36b8980f9eec6146",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64bf99259e6cc47b",
+    "type": "split",
+    "children": [
+      {
+        "id": "491b431fa8b38a85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78b78babc77cf446",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69593370ba5cd88e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff30d4bd7ad7bc96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15ff9d0866650e15",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1d9138f8f0c8dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a2ff5c391cb1db9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linear-algebra/cheet-sheet-algebra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "317d2ce29cdae59d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "linear-algebra/cheet-sheet-algebra.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "900e410a1d8df053",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e88ecb1aa5a8141d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linear-algebra/cheet-sheet-algebra.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "36b8980f9eec6146",
+  "lastOpenFiles": [
+    "linear-algebra/cheet-sheet-algebra.md"
+  ]
+}
