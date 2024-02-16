@@ -1,58 +1,39 @@
 {
   "main": {
-    "id": "40e74e65404bdec7",
+    "id": "53525dce4c3aecec",
     "type": "split",
     "children": [
       {
-        "id": "c450a5d918d04625",
+        "id": "a7f6aa1b55b7bb10",
         "type": "tabs",
         "children": [
           {
-            "id": "a1faaeb06ab32207",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "37f9ec0619b38599",
+            "id": "b4d151f72a3c4a99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear-algebra/cheet-sheet-algebra.md",
+                "file": "english-for-cs/oral presentation.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "36b8980f9eec6146",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "64bf99259e6cc47b",
+    "id": "cd30ca22431e9c23",
     "type": "split",
     "children": [
       {
-        "id": "491b431fa8b38a85",
+        "id": "8f8eef6c5600a186",
         "type": "tabs",
         "children": [
           {
-            "id": "78b78babc77cf446",
+            "id": "5bfb7d0aefdd33e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,12 +43,12 @@
             }
           },
           {
-            "id": "69593370ba5cd88e",
+            "id": "e6e304502418991d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "powers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +58,7 @@
             }
           },
           {
-            "id": "ff30d4bd7ad7bc96",
+            "id": "b35cc2d7153fc3e5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,47 +69,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.5069465637207
   },
   "right": {
-    "id": "15ff9d0866650e15",
+    "id": "d7c2c9de787ae8d7",
     "type": "split",
     "children": [
       {
-        "id": "b1d9138f8f0c8dab",
+        "id": "dfaad2e3cffad122",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2ff5c391cb1db9",
+            "id": "bc9cfcf32abd14a3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear-algebra/cheet-sheet-algebra.md",
+                "file": "english-for-cs/oral presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "317d2ce29cdae59d",
+            "id": "747b78bd74dea14d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linear-algebra/cheet-sheet-algebra.md",
+                "file": "english-for-cs/oral presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "900e410a1d8df053",
+            "id": "784b0e6b0030ea2c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,16 +120,17 @@
             }
           },
           {
-            "id": "e88ecb1aa5a8141d",
+            "id": "76d9b7e03f0e91d9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "linear-algebra/cheet-sheet-algebra.md"
+                "file": "english-for-cs/oral presentation.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,8 +147,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36b8980f9eec6146",
+  "active": "b4d151f72a3c4a99",
   "lastOpenFiles": [
-    "linear-algebra/cheet-sheet-algebra.md"
+    "discrete-mathematics/Exam structure - descreate math.md",
+    "computer-systems-architecture/Pasted image 20240110092008.png",
+    "sources english.md",
+    "english-for-cs/oral presentation.md",
+    "cheat sheat.md",
+    "discrete-mathematics/Continuous vs Discrete.md",
+    "discrete-mathematics/cheat-sheet.md",
+    "discrete-mathematics/cheat-sheet.pdf",
+    "computer-programming/cheat-sheet.md",
+    "computer-programming/cheat-sheet.pdf",
+    "discrete-mathematics/introduction to discrete mathematics.md",
+    "Exam structure - descreate math.md",
+    "discrete-mathematics/Lecture16 - Trees.pdf",
+    "discrete-mathematics/Lecture15 - Graph Theory.pdf",
+    "english-for-cs/english essay.md",
+    "english-for-cs/Mola_Massimiliano_23026.md",
+    "english-for-cs/Mola_Massimiliano_23026.pdf",
+    "english-for-cs/Mola_Massimiliano_xxxx.pdf",
+    "discrete-mathematics/Lecture14 - Partial Orders 23.pdf",
+    "english-for-cs/Portfolio - 2023 2024.md",
+    "english-for-cs/Report.md",
+    "linear-algebra/Linear Transformations - notes10.pdf",
+    "linear-algebra/Linear transformations.md",
+    "computer-systems-architecture/OS Support.md",
+    "linear-algebra/Vector transformations.md",
+    "computer-systems-architecture/Expert presentation.md",
+    "linear-algebra/Formal understanding of a function.md",
+    "discrete-mathematics/Subsets.md",
+    "discrete-mathematics/Variables in discrete mathematics.md",
+    "discrete-mathematics/subset vs in - exercise.md",
+    "discrete-mathematics/Statements.md",
+    "discrete-mathematics/Recursive Sequences.md",
+    "discrete-mathematics/Sets and Functions.md",
+    "discrete-mathematics/Methods of proof.md",
+    "discrete-mathematics/Lecture01 - Language of Mathematics 23.pdf",
+    "images/Pasted image 20231122103307.png",
+    "rolplay/dnd",
+    "images/Pasted image 20231122082550.png",
+    "images/Pasted image 20231122080955.png",
+    "images/Pasted image 20231122083423.png",
+    "images/Pasted image 20231122081556.png",
+    "images/Pasted image 20231122081251.png",
+    "preparatory-math/preparatory course in math.canvas",
+    "computer-programming/Introduction to programming.canvas",
+    "linear-algebra/Screenshot 2023-10-19 091503.png",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas"
   ]
 }
