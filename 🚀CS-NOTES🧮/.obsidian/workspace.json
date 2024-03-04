@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-for-cs/oral presentation.md",
+                "file": "linear-algebra/cheet-sheet-algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad09ad6ea108781f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-for-cs/oral presentation.md",
+                "file": "linear-algebra/cheet-sheet-algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-for-cs/oral presentation.md",
+                "file": "linear-algebra/cheet-sheet-algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-for-cs/oral presentation.md"
+                "file": "linear-algebra/cheet-sheet-algebra.md"
               }
             }
           }
@@ -147,12 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4d151f72a3c4a99",
+  "active": "ad09ad6ea108781f",
   "lastOpenFiles": [
+    "linear-algebra/cheet-sheet-algebra.pdf",
+    "english-for-cs/oral presentation.md",
+    "linear-algebra/cheet-sheet-algebra.md",
     "discrete-mathematics/Exam structure - descreate math.md",
     "computer-systems-architecture/Pasted image 20240110092008.png",
     "sources english.md",
-    "english-for-cs/oral presentation.md",
     "cheat sheat.md",
     "discrete-mathematics/Continuous vs Discrete.md",
     "discrete-mathematics/cheat-sheet.md",
@@ -182,7 +195,6 @@
     "discrete-mathematics/Statements.md",
     "discrete-mathematics/Recursive Sequences.md",
     "discrete-mathematics/Sets and Functions.md",
-    "discrete-mathematics/Methods of proof.md",
     "discrete-mathematics/Lecture01 - Language of Mathematics 23.pdf",
     "images/Pasted image 20231122103307.png",
     "rolplay/dnd",
